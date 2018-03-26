@@ -28,6 +28,9 @@
 *.so.*
 *.dylib
 
+# Test Example
+test.c
+
 # Executables
 *.exe
 *.out
