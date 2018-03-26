@@ -30,7 +30,7 @@
 
 # Test Example
 test.c
-
+test
 # Executables
 *.exe
 *.out
